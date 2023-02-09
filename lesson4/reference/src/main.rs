@@ -1,3 +1,5 @@
+// Example of Rust Onership and Borrowing
+
 fn main() {
     let str1 = String::from("Dynamic String");
     let len1 = calculate_string_length(str1);
